@@ -14,7 +14,7 @@ console.log('👾 compr3x.file in your browser')
 
 compressImg()
 
-function compressImg({image_file, quality = 1.0, format = 'jpeg'}){
+function compressImg(image_file, { quality = 1.0, format = 'jpeg'}){
 
     /**
      * @param image_file [Required]
