@@ -1,4 +1,4 @@
-console.log('compr3x.file in your 🧭')
+console.log('👾 compr3x.file in your browser')
 
 /* Compreensão de immages é processo de minimizar o tamanho de uma imagem
 basicamente vamos fazer a perca de dados na imagem, que pode ser muitas das vezes menos profunda
