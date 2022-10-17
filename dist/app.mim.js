@@ -12,8 +12,6 @@ console.log('👾 compr3x.file in your browser')
  * 3 - Reecriar a imagem
  */ 
 
-compressImg()
-
 function compressImg(image_file, quality = 1.0, format = 'jpeg'){
 
     /**
